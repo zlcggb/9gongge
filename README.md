@@ -1,7 +1,7 @@
 # 产品九宫格展示系统
 
 ## 项目概述
-
+演示链接：https://9gongge.netlify.app/
 产品九宫格展示系统是一个基于React和TypeScript开发的现代化Web应用，用于以九宫格形式展示和管理产品信息。该系统提供了直观的产品分类展示，支持网格视图和表格视图切换，并具有产品详情查看、添加、编辑和删除等功能。
 ![局部截取_20250321_015525](https://github.com/user-attachments/assets/a8eafeeb-5a1b-408a-b818-d1b45470f53d)
 
