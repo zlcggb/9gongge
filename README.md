@@ -44,7 +44,7 @@
 
 ### 环境要求
 - Node.js 16.0+ ，需要先下载安装https://nodejs.org/en/download
-- npm 7.0+ 或 yarn 1.22+
+- npm 7.0+ （推荐）或 yarn 1.22+
 
 ### 安装步骤
 
@@ -56,24 +56,23 @@ cd 9gongge
 
 2. 安装依赖
 ```bash
-npm install
+npm install #推荐
 # 或
 yarn install
 ```
 
 3. 启动开发服务器
 ```bash
-npm run dev
+npm run dev #推荐
 # 或
 yarn dev
 ```
-  ➜  Local:   http://localhost:5175/
-  ➜  Network: use --host to expose
-  ➜  press h + enter to show help
+  ➜启动成功后，打开  Local:   http://localhost:5175/
+ 
   
 4. 构建生产版本（可选）
 ```bash
-npm run build
+npm run build #推荐
 # 或
 yarn build
 ```
